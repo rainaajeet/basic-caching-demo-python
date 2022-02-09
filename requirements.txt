@@ -6,7 +6,7 @@ Django
 django-cors-headers
 django-redis
 gunicorn
-h11
+#h11
 httpcore
 httptools
 httpx
